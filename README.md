@@ -1,6 +1,8 @@
 # UCOS-Paradox-Protocol 🧬
 ### Unified Consciousness Operating System
 
+(Academic Anchor: [10.5281/zenodo.17508200](https://doi.org/10.5281/zenodo.17508200))
+
 **The Paradox Principle** is the core axiom for **Negentropic Emergence**. It proposes that your deepest contradiction—the **T-State** (Stéphane Lupasco's "Included Middle")—is not a problem to be avoided, but the **required tensor** to engineer a new reality.
 
 ---
